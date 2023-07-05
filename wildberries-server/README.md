@@ -1,7 +1,8 @@
 # Commands
 
-1. pnpm start
-2. pnpm dev
+1. pnpm i
+2. pnpm start
+3. pnpm dev
 
 ## Если бы данная задача использовалось многими юзерами
 
